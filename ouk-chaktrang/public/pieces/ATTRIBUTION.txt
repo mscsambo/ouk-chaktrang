@@ -1,0 +1,13 @@
+Traditional Cambodian chess piece artwork
+
+Artist: Fulmene
+Original project: https://github.com/Fulmene/makruk-pieces-image
+Distributed via PyChess: https://github.com/gbtami/pychess-variants/tree/master/static/images/pieces/makruk/cambodian
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+License identification: https://github.com/gbtami/pychess-variants/blob/master/static/COPYING.md (static/images/pieces/makruk/*)
+
+The 14 SVG files have been adapted for this game: light pieces use ivory colors and dark pieces use dark purple colors. Original piece shapes are preserved. The artwork remains under CC BY-SA 4.0. No endorsement by the artist or PyChess is implied.
+
+K: King; Q: Neang; B: Koul; N: Horse; R: Boat; P: Fish; F: Promoted fish.
+w: ivory; b: dark purple.

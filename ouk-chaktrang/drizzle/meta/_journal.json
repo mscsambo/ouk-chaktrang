@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790858452695,
+      "tag": "0000_little_aqueduct",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790910324835,
+      "tag": "0001_short_punisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790913709382,
+      "tag": "0002_watery_nitro",
+      "breakpoints": true
+    }
+  ]
+}

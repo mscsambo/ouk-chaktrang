@@ -1,0 +1,20 @@
+{
+  "name": "ouk-chaktrang",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/engine.test.mjs",
+    "test:feedback": "node tests/feedback.test.mjs",
+    "build": "node scripts/build.mjs",
+    "db:generate": "drizzle-kit generate",
+    "test:rooms": "node tests/rooms.test.mjs",
+    "test:comments": "node tests/comments.test.mjs",
+    "test:profile": "node tests/profile.test.mjs",
+    "test:mobile": "node tests/mobile.test.mjs"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.0",
+    "drizzle-orm": "^0.44.0",
+    "esbuild": "^0.25.0"
+  }
+}
